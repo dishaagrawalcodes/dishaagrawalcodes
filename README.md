@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Disha Agrawal from India.  <br><br>- 🔭 I have worked as a Web Developer Intern at CYBERED.  <br>- 🏆 Achieved **8th Rank in Social Summer of Code (SSoC) Season 4, 2025**.  <br>- 🌱 I have contributed to **Civix**, **EventMappr**, and **EdgeCareer** through open-source and team projects.  <br>- 📚 I'm currently learning Data Structures & Algorithms, WebRTC, and advanced MERN stack development.  <br>- ⚡ In my free time, I enjoy exploring open-source projects, designing creative websites, and researching sustainable tech innovations.</p>
+<p align="left">I'm Disha Agrawal from India.  <br><br>- 🔭 I have worked as a Full Stack Web Developer Intern at CYBERED.  <br>- 🏆 Achieved **8th Rank in Social Summer of Code (SSoC) Season 4, 2025**.  <br>- 🌱 I have contributed to **Civix**, **EventMappr**, and **EdgeCareer** through open-source and team projects.  <br>- 📚 I'm currently learning Data Structures & Algorithms, WebRTC, and advanced MERN stack development.  <br>- ⚡ In my free time, I enjoy exploring open-source projects, designing creative websites, and researching sustainable tech innovations.</p>
 
 ###
 
