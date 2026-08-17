@@ -6,7 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Software+Development+Engineer;Full+Stack+Developer;750%2B+DSA+Problems+Solved;Open+Source+Contributor;AI-Powered+Application+Enthusiast" alt="Typing SVG" />
 </a>
 
-
 <br/>
 
 <img src="https://img.shields.io/badge/Final%20Year-B.Tech%20CSE-7C3AED?style=for-the-badge&labelColor=111827" />
